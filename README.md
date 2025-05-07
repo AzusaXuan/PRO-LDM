@@ -155,7 +155,12 @@ python main.py --mode train --dataset TAPE
 
 ---
 
+### You can access all raw code, checkpoints and data via the following command in terminal.
 
+~~~
+pip install gdown
+gdown --folder https://drive.google.com/drive/folders/1tX9PSrywPhW62HlExn3lWj2IGEsSzKFv
+~~~
 
 ## Model Checkpoint
 
