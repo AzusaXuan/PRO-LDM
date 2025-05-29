@@ -44,7 +44,7 @@ pip3 install -r requirements.txt
 
 ### Pre-train Models
 
-in main.py you can set 
+in `main.py` you can set 
 
 ~~~python
 args.mode=train 
@@ -110,7 +110,7 @@ python main.py --mode train --dataset TAPE --n_epochs 1000
 
 ### Evaluate Models
 
-we use dataset TAPE as an example, and the result is generated in path: **PROLDM_OUTLIER/test_output/TAPE**
+we use dataset TAPE as an example, and the result is generated in path: `PROLDM_OUTLIER/test_output/TAPE`
 
 ~~~bash
 python main.py --mode eval --dataset <dataset_name> --eval_load_epoch <eval_epoch>
@@ -120,7 +120,7 @@ python main.py --mode eval --dataset TAPE --eval_load_epoch 1000
 
 ### Seq Generation
 
-we use dataset TAPE as an example, and the result is generated in path: **PROLDM_OUTLIER/generated_seq/TAPE**
+we use dataset TAPE as an example, and the result is generated in path: `PROLDM_OUTLIER/generated_seq/TAPE`
 
 Label 0 represents unconditional generation, and label 1-8 represent conditional generation.
 
@@ -164,7 +164,7 @@ gdown --folder https://drive.google.com/drive/folders/1tX9PSrywPhW62HlExn3lWj2IG
 
 ## Model Checkpoint
 
-we save pre-trained model weights in the folder **./train_logs**
+we save pre-trained model weights in the folder `./train_logs`
 
 ---
 
@@ -172,7 +172,7 @@ we save pre-trained model weights in the folder **./train_logs**
 
 ## Training Datasets
 
-All training datasets are preserved in the folder **./data** and most of them are divided into two csv files: **<datset_name>-train.csv** and **<dataset_name>-test.csv**.
+All training datasets are preserved in the folder `./data` and most of them are divided into two csv files: `<datset_name>-train.csv` and `<dataset_name>-test.csv`.
 
 
 
