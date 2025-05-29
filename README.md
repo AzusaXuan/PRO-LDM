@@ -2,7 +2,7 @@
 
 ---
 
-
+![image](https://github.com/AzusaXuan/PRO-LDM/blob/main/proldm_1.png)
 
 ## Introduction
 
