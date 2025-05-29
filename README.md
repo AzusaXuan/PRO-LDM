@@ -44,7 +44,7 @@ pip3 install -r requirements.txt
 
 ### Pre-train Models
 
-set 
+in main.py you can set 
 
 ~~~python
 args.mode=train 
