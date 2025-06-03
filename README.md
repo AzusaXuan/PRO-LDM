@@ -174,7 +174,19 @@ we save pre-trained model weights in the folder `./train_logs`
 
 All training datasets are preserved in the folder `./data` and most of them are divided into two csv files: `<datset_name>-train.csv` and `<dataset_name>-test.csv`.
 
+---
 
+## Citation
+~~~
+@article{zhang2023pro,
+  title={Pro-ldm: Protein sequence generation with a conditional latent diffusion model},
+  author={Zhang, Sitao and Jiang, Zixuan and Huang, Rundong and Mo, Shaoxun and Zhu, Letao and Li, Peiheng and Zhang, Ziyi and Pan, Emily and Chen, Xi and Long, Yunfei and others},
+  journal={bioRxiv},
+  pages={2023--08},
+  year={2023},
+  publisher={Cold Spring Harbor Laboratory}
+}
+~~~
 
 ---
 
