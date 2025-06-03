@@ -1,6 +1,6 @@
 # PRO-LDM
 
----
+Implementation of [PRO-LDM: Protein Sequence Generation with a Conditional Latent Diffusion Model](https://www.biorxiv.org/content/10.1101/2023.08.22.554145v2) by Sitao Zhang*, Zixuan Jiang*, Rundong Huang, Shaoxun Mo, Letao Zhu, Peiheng Li, Ziyi Zhang, Emily Pan, Xi Chen, Yunfei Long, Qi Liang, Jin Tang, Renjing Xu, and Rui Qing.
 
 ![image](https://github.com/AzusaXuan/PRO-LDM/blob/main/proldm_1.png)
 
@@ -20,7 +20,7 @@ Out-of-distribution (OOD) design can be implemented by adjusting the classifier-
 
 
 
----
+
 
 
 
@@ -36,7 +36,7 @@ pip3 install -r requirements.txt
 
 
 
----
+
 
 
 
@@ -153,7 +153,7 @@ python main.py --mode train --dataset TAPE
 
 
 
----
+
 
 ### You can access all raw code, checkpoints and data via the following command in terminal.
 
@@ -166,7 +166,7 @@ gdown --folder https://drive.google.com/drive/folders/1tX9PSrywPhW62HlExn3lWj2IG
 
 we save pre-trained model weights in the folder `./train_logs`
 
----
+
 
 
 
@@ -174,7 +174,7 @@ we save pre-trained model weights in the folder `./train_logs`
 
 All training datasets are preserved in the folder `./data` and most of them are divided into two csv files: `<datset_name>-train.csv` and `<dataset_name>-test.csv`.
 
----
+
 
 ## Citation
 ~~~
