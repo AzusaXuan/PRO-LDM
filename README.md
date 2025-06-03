@@ -1,6 +1,6 @@
 # PRO-LDM
 
-Implementation of [PRO-LDM: Protein Sequence Generation with a Conditional Latent Diffusion Model](https://www.biorxiv.org/content/10.1101/2023.08.22.554145v2) by Sitao Zhang*, Zixuan Jiang*, Rundong Huang, Shaoxun Mo, Letao Zhu, Peiheng Li, Ziyi Zhang, Emily Pan, Xi Chen, Yunfei Long, Qi Liang, Jin Tang, Renjing Xu, and Rui Qing.
+Implementation of [PRO-LDM: Protein Sequence Generation with a Conditional Latent Diffusion Model](https://www.biorxiv.org/content/10.1101/2023.08.22.554145v2) by Sitao Zhang*, Zixuan Jiang*, Rundong Huang, Shaoxun Mo, Letao Zhu, Peiheng Li, Ziyi Zhang, Emily Pan, Xi Chen, Yunfei Long, Qi Liang, Jin Tang, Renjing Xu, and Rui Qing. Please feel free to reach out to us at [zjiang597@connect.hkust-gz.edu.cn](zjiang597@connect.hkust-gz.edu.cn) or [zhangsitao@sjtu.edu.cn](zhangsitao@sjtu.edu.cn) with any questions.
 
 ![image](https://github.com/AzusaXuan/PRO-LDM/blob/main/proldm_1.png)
 
