@@ -174,7 +174,8 @@ we save pre-trained model weights in the folder `./train_logs`
 
 All training datasets are preserved in the folder `./data` and most of them are divided into two csv files: `<datset_name>-train.csv` and `<dataset_name>-test.csv`.
 
-
+## License
+The code and model weights are released under MIT license. See the [LICENSE](LICENSE) for details.
 
 ## Citation
 ~~~
