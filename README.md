@@ -179,13 +179,13 @@ The code and model weights are released under MIT license. See the [LICENSE](LIC
 
 ## Citation
 ~~~
-@article{zhang2023pro,
-  title={Pro-ldm: Protein sequence generation with a conditional latent diffusion model},
-  author={Zhang, Sitao and Jiang, Zixuan and Huang, Rundong and Mo, Shaoxun and Zhu, Letao and Li, Peiheng and Zhang, Ziyi and Pan, Emily and Chen, Xi and Long, Yunfei and others},
-  journal={bioRxiv},
-  pages={2023--08},
-  year={2023},
-  publisher={Cold Spring Harbor Laboratory}
+@article{zhang2025pro,
+  title={PRO-LDM: A Conditional Latent Diffusion Model for Protein Sequence Design and Functional Optimization},
+  author={Zhang, Sitao and Jiang, Zixuan and Huang, Rundong and Huang, Wenting and Peng, Siyuan and Mo, Shaoxun and Zhu, Letao and Li, Peiheng and Zhang, Ziyi and Pan, Emily and others},
+  journal={Advanced Science},
+  pages={e02723},
+  year={2025},
+  publisher={Wiley Online Library}
 }
 ~~~
 
