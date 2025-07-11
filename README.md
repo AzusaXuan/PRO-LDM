@@ -167,9 +167,6 @@ gdown --folder https://drive.google.com/drive/folders/1tX9PSrywPhW62HlExn3lWj2IG
 we save pre-trained model weights in the folder `./train_logs`
 
 
-
-
-
 ## Training Datasets
 
 All training datasets are preserved in the folder `./data` and most of them are divided into two csv files: `<datset_name>-train.csv` and `<dataset_name>-test.csv`.
@@ -188,6 +185,12 @@ The code and model weights are released under MIT license. See the [LICENSE](LIC
   publisher={Wiley Online Library}
 }
 ~~~
+
+## Credits
+
+The code of this work is mainly built on following repositories (many thanks to them), you could also check them if encountering any problems: 
+1. Egbert Castro's ReLSO (https://github.com/KrishnaswamyLab/ReLSO-Guided-Generative-Protein-Design-using-Regularized-Transformers)
+2. Phil Wang's Pytorch code for Classifier Free Guidance (https://github.com/lucidrains/classifier-free-guidance-pytorch)
 
 ---
 
